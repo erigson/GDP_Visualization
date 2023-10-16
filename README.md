@@ -32,9 +32,4 @@ To get started with this project, you'll need to have Python and some data manip
 - Create interactive visualizations.
 - Extend the project to predict other key performance indicators (KPIs) besides GDP.
 
-## Contributing
-Feel free to fork this project, submit pull requests, or open issues.
-
-## License
-This project is open-source and available under the MIT License.
 

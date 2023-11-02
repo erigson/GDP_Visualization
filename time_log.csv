@@ -1,5 +1,11 @@
 Date,Category,Duration,Activity,Next Steps
 10/6/2023,project ideation,3 hours,finding ways to incorporate financial data with global stats data,visualize/predict
-10/10/2023,project ideation,3 hours,what will we be predicting/ the goal of our model,data
+10/10/2023,project ideation,3 hours,what will we be predicting/ the goal of our model/frameworks,data
 10/12/2023,data finding,1.5 hours,what data are we using what statistics are we measuring,"find data(gdp, commodities)"
 10/14/2023,bb goals,6 hours,"setting up vc, design docs, planning next stages",keep going
+10/16/2023,data finding,4 hours,finding economic data sets from kaggle/world bank,fix data
+10/19/2023,preprocessing,4 hours,modifying data to fit for modeling,continue
+10/23/2023,preprocessing,3 hours,settling for world bank data,
+10/26/2023,preprocessing,4 hours,assess missing data problem,MVP
+10/29/2023,modelling,6 hours,"First iteration linreg, utilizing stats data",tune and remodel
+11/1/2023,Demo2,3 hours,"prepare video, time log, design doc",

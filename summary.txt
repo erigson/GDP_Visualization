@@ -1,0 +1,337 @@
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:      gdp_(current_us$)   R-squared:                       0.005
+Model:                            OLS   Adj. R-squared:                  0.005
+Method:                 Least Squares   F-statistic:                     16.76
+Date:                Wed, 08 Nov 2023   Prob (F-statistic):           4.35e-05
+Time:                        23:36:55   Log-Likelihood:                -4961.5
+No. Observations:                3481   AIC:                             9927.
+Df Residuals:                    3479   BIC:                             9939.
+Df Model:                           1                                         
+Covariance Type:            nonrobust                                         
+==============================================================================
+                 coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------
+const          0.0021      0.017      0.124      0.901      -0.031       0.036
+year           0.0699      0.017      4.093      0.000       0.036       0.103
+==============================================================================
+Omnibus:                     5406.489   Durbin-Watson:                   2.034
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):          2070091.764
+Skew:                           9.924   Prob(JB):                         0.00
+Kurtosis:                     120.807   Cond. No.                         1.01
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:      gdp_(current_us$)   R-squared:                       0.024
+Model:                            OLS   Adj. R-squared:                  0.023
+Method:                 Least Squares   F-statistic:                     83.85
+Date:                Wed, 08 Nov 2023   Prob (F-statistic):           8.89e-20
+Time:                        23:36:55   Log-Likelihood:                -4928.4
+No. Observations:                3481   AIC:                             9861.
+Df Residuals:                    3479   BIC:                             9873.
+Df Model:                           1                                         
+Covariance Type:            nonrobust                                         
+=================================================================================================================================
+                                                                    coef    std err          t      P>|t|      [0.025      0.975]
+---------------------------------------------------------------------------------------------------------------------------------
+const                                                             0.0013      0.017      0.080      0.937      -0.032       0.034
+adolescent_fertility_rate_(births_per_1,000_women_ages_15-19)    -0.1555      0.017     -9.157      0.000      -0.189      -0.122
+==============================================================================
+Omnibus:                     5433.757   Durbin-Watson:                   2.037
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):          2158554.254
+Skew:                          10.010   Prob(JB):                         0.00
+Kurtosis:                     123.339   Cond. No.                         1.01
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:      gdp_(current_us$)   R-squared:                       0.025
+Model:                            OLS   Adj. R-squared:                  0.025
+Method:                 Least Squares   F-statistic:                     83.81
+Date:                Wed, 08 Nov 2023   Prob (F-statistic):           9.41e-20
+Time:                        23:36:55   Log-Likelihood:                -4688.2
+No. Observations:                3244   AIC:                             9380.
+Df Residuals:                    3242   BIC:                             9393.
+Df Model:                           1                                         
+Covariance Type:            nonrobust                                         
+===========================================================================================================================
+                                                              coef    std err          t      P>|t|      [0.025      0.975]
+---------------------------------------------------------------------------------------------------------------------------
+const                                                       0.0060      0.018      0.331      0.741      -0.029       0.041
+agriculture_forestry_and_fishing_value_added_(%_of_gdp)    -0.1667      0.018     -9.155      0.000      -0.202      -0.131
+==============================================================================
+Omnibus:                     4853.176   Durbin-Watson:                   1.992
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):          1448957.783
+Skew:                           9.287   Prob(JB):                         0.00
+Kurtosis:                     104.857   Cond. No.                         1.02
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:      gdp_(current_us$)   R-squared:                       0.011
+Model:                            OLS   Adj. R-squared:                  0.011
+Method:                 Least Squares   F-statistic:                     20.30
+Date:                Wed, 08 Nov 2023   Prob (F-statistic):           7.06e-06
+Time:                        23:36:56   Log-Likelihood:                -2482.8
+No. Observations:                1766   AIC:                             4970.
+Df Residuals:                    1764   BIC:                             4981.
+Df Model:                           1                                         
+Covariance Type:            nonrobust                                         
+========================================================================================================================
+                                                           coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------------------------------------------------
+const                                                   -0.0039      0.024     -0.167      0.868      -0.050       0.042
+births_attended_by_skilled_health_staff_(%_of_total)     0.1052      0.023      4.505      0.000       0.059       0.151
+==============================================================================
+Omnibus:                     2425.466   Durbin-Watson:                   2.010
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):           408045.689
+Skew:                           7.910   Prob(JB):                         0.00
+Kurtosis:                      75.767   Cond. No.                         1.02
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:      gdp_(current_us$)   R-squared:                       0.052
+Model:                            OLS   Adj. R-squared:                  0.052
+Method:                 Least Squares   F-statistic:                     171.9
+Date:                Wed, 08 Nov 2023   Prob (F-statistic):           2.89e-38
+Time:                        23:36:56   Log-Likelihood:                -4442.7
+No. Observations:                3143   AIC:                             8889.
+Df Residuals:                    3141   BIC:                             8901.
+Df Model:                           1                                         
+Covariance Type:            nonrobust                                         
+==========================================================================================================
+                                             coef    std err          t      P>|t|      [0.025      0.975]
+----------------------------------------------------------------------------------------------------------
+const                                      0.0066      0.018      0.370      0.711      -0.028       0.041
+co2_emissions_(metric_tons_per_capita)     0.2298      0.018     13.109      0.000       0.195       0.264
+==============================================================================
+Omnibus:                     4569.885   Durbin-Watson:                   1.963
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):          1260993.520
+Skew:                           8.787   Prob(JB):                         0.00
+Kurtosis:                      99.541   Cond. No.                         1.01
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:      gdp_(current_us$)   R-squared:                       0.047
+Model:                            OLS   Adj. R-squared:                  0.045
+Method:                 Least Squares   F-statistic:                     28.12
+Date:                Wed, 08 Nov 2023   Prob (F-statistic):           1.63e-07
+Time:                        23:36:56   Log-Likelihood:                -808.66
+No. Observations:                 577   AIC:                             1621.
+Df Residuals:                     575   BIC:                             1630.
+Df Model:                           1                                         
+Covariance Type:            nonrobust                                         
+=======================================================================================================================================
+                                                                          coef    std err          t      P>|t|      [0.025      0.975]
+---------------------------------------------------------------------------------------------------------------------------------------
+const                                                                   0.0047      0.041      0.116      0.908      -0.076       0.085
+contraceptive_prevalence_any_method_(%_of_married_women_ages_15-49)     0.2134      0.040      5.303      0.000       0.134       0.292
+==============================================================================
+Omnibus:                      889.169   Durbin-Watson:                   2.027
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):           202805.706
+Skew:                           8.862   Prob(JB):                         0.00
+Kurtosis:                      93.119   Cond. No.                         1.02
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:      gdp_(current_us$)   R-squared:                       0.039
+Model:                            OLS   Adj. R-squared:                  0.039
+Method:                 Least Squares   F-statistic:                     72.19
+Date:                Wed, 08 Nov 2023   Prob (F-statistic):           4.09e-17
+Time:                        23:36:56   Log-Likelihood:                -2364.2
+No. Observations:                1760   AIC:                             4732.
+Df Residuals:                    1758   BIC:                             4743.
+Df Model:                           1                                         
+Covariance Type:            nonrobust                                         
+===============================================================================================================
+                                                  coef    std err          t      P>|t|      [0.025      0.975]
+---------------------------------------------------------------------------------------------------------------
+const                                          -0.0150      0.022     -0.677      0.498      -0.058       0.028
+electric_power_consumption_(kwh_per_capita)     0.1889      0.022      8.497      0.000       0.145       0.232
+==============================================================================
+Omnibus:                     2443.482   Durbin-Watson:                   2.026
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):           482160.290
+Skew:                           7.994   Prob(JB):                         0.00
+Kurtosis:                      82.494   Cond. No.                         1.01
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:      gdp_(current_us$)   R-squared:                       0.037
+Model:                            OLS   Adj. R-squared:                  0.036
+Method:                 Least Squares   F-statistic:                     71.58
+Date:                Wed, 08 Nov 2023   Prob (F-statistic):           5.28e-17
+Time:                        23:24:20   Log-Likelihood:                -2750.6
+No. Observations:                1874   AIC:                             5505.
+Df Residuals:                    1872   BIC:                             5516.
+Df Model:                           1                                         
+Covariance Type:            nonrobust                                         
+================================================================================================================
+                                                   coef    std err          t      P>|t|      [0.025      0.975]
+----------------------------------------------------------------------------------------------------------------
+const                                            0.0074      0.024      0.306      0.760      -0.040       0.055
+energy_use_(kg_of_oil_equivalent_per_capita)     0.2053      0.024      8.461      0.000       0.158       0.253
+==============================================================================
+Omnibus:                     2498.388   Durbin-Watson:                   1.971
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):           375701.772
+Skew:                           7.537   Prob(JB):                         0.00
+Kurtosis:                      70.708   Cond. No.                         1.00
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:      gdp_(current_us$)   R-squared:                       0.012
+Model:                            OLS   Adj. R-squared:                  0.011
+Method:                 Least Squares   F-statistic:                     36.19
+Date:                Wed, 08 Nov 2023   Prob (F-statistic):           2.01e-09
+Time:                        23:24:20   Log-Likelihood:                -4049.5
+No. Observations:                3040   AIC:                             8103.
+Df Residuals:                    3038   BIC:                             8115.
+Df Model:                           1                                         
+Covariance Type:            nonrobust                                         
+============================================================================================================
+                                               coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------------------------------------
+const                                       -0.0067      0.017     -0.401      0.688      -0.039       0.026
+exports_of_goods_and_services_(%_of_gdp)    -0.0989      0.016     -6.015      0.000      -0.131      -0.067
+==============================================================================
+Omnibus:                     4430.415   Durbin-Watson:                   2.011
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):          1207098.241
+Skew:                           8.828   Prob(JB):                         0.00
+Kurtosis:                      99.010   Cond. No.                         1.01
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:      gdp_(current_us$)   R-squared:                       0.868
+Model:                            OLS   Adj. R-squared:                  0.868
+Method:                 Least Squares   F-statistic:                 1.288e+04
+Date:                Wed, 08 Nov 2023   Prob (F-statistic):               0.00
+Time:                        23:24:20   Log-Likelihood:                -791.66
+No. Observations:                1963   AIC:                             1587.
+Df Residuals:                    1961   BIC:                             1598.
+Df Model:                           1                                         
+Covariance Type:            nonrobust                                         
+================================================================================================================
+                                                   coef    std err          t      P>|t|      [0.025      0.975]
+----------------------------------------------------------------------------------------------------------------
+const                                           -0.0019      0.008     -0.228      0.819      -0.018       0.014
+external_debt_stocks_total_(dod_current_us$)     0.9251      0.008    113.498      0.000       0.909       0.941
+==============================================================================
+Omnibus:                     1050.615   Durbin-Watson:                   2.011
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):           211925.841
+Skew:                           1.390   Prob(JB):                         0.00
+Kurtosis:                      53.826   Cond. No.                         1.00
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:      gdp_(current_us$)   R-squared:                       0.025
+Model:                            OLS   Adj. R-squared:                  0.025
+Method:                 Least Squares   F-statistic:                     88.32
+Date:                Wed, 08 Nov 2023   Prob (F-statistic):           9.95e-21
+Time:                        23:24:20   Log-Likelihood:                -4694.2
+No. Observations:                3382   AIC:                             9392.
+Df Residuals:                    3380   BIC:                             9405.
+Df Model:                           1                                         
+Covariance Type:            nonrobust                                         
+===========================================================================================================
+                                              coef    std err          t      P>|t|      [0.025      0.975]
+-----------------------------------------------------------------------------------------------------------
+const                                      -0.0039      0.017     -0.237      0.813      -0.037       0.029
+fertility_rate_total_(births_per_woman)    -0.1572      0.017     -9.398      0.000      -0.190      -0.124
+==============================================================================
+Omnibus:                     5282.335   Durbin-Watson:                   2.030
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):          2133245.487
+Skew:                          10.006   Prob(JB):                         0.00
+Kurtosis:                     124.400   Cond. No.                         1.01
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:      gdp_(current_us$)   R-squared:                       0.005
+Model:                            OLS   Adj. R-squared:                  0.004
+Method:                 Least Squares   F-statistic:                     13.46
+Date:                Wed, 08 Nov 2023   Prob (F-statistic):           0.000248
+Time:                        23:24:20   Log-Likelihood:                -4236.0
+No. Observations:                2893   AIC:                             8476.
+Df Residuals:                    2891   BIC:                             8488.
+Df Model:                           1                                         
+Covariance Type:            nonrobust                                         
+===================================================================================================================
+                                                      coef    std err          t      P>|t|      [0.025      0.975]
+-------------------------------------------------------------------------------------------------------------------
+const                                               0.0098      0.019      0.501      0.616      -0.028       0.048
+foreign_direct_investment_net_(bop_current_us$)    -0.0708      0.019     -3.669      0.000      -0.109      -0.033
+==============================================================================
+Omnibus:                     4133.346   Durbin-Watson:                   2.045
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):           917538.438
+Skew:                           8.573   Prob(JB):                         0.00
+Kurtosis:                      88.544   Cond. No.                         1.01
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:      gdp_(current_us$)   R-squared:                       0.446
+Model:                            OLS   Adj. R-squared:                  0.446
+Method:                 Least Squares   F-statistic:                     2583.
+Date:                Wed, 08 Nov 2023   Prob (F-statistic):               0.00
+Time:                        23:24:20   Log-Likelihood:                -3359.7
+No. Observations:                3212   AIC:                             6723.
+Df Residuals:                    3210   BIC:                             6736.
+Df Model:                           1                                         
+Covariance Type:            nonrobust                                         
+===========================================================================================================================
+                                                              coef    std err          t      P>|t|      [0.025      0.975]
+---------------------------------------------------------------------------------------------------------------------------
+const                                                      -0.0104      0.012     -0.855      0.392      -0.034       0.013
+foreign_direct_investment_net_inflows_(bop_current_us$)     0.6002      0.012     50.824      0.000       0.577       0.623
+==============================================================================
+Omnibus:                     2879.545   Durbin-Watson:                   1.972
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):          1064724.899
+Skew:                           3.382   Prob(JB):                         0.00
+Kurtosis:                      91.937   Cond. No.                         1.03
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:      gdp_(current_us$)   R-squared:                       0.135
+Model:                            OLS   Adj. R-squared:                  0.135
+Method:                 Least Squares   F-statistic:                     532.9
+Date:                Wed, 08 Nov 2023   Prob (F-statistic):          1.08e-109
+Time:                        23:24:20   Log-Likelihood:                -4728.1
+No. Observations:                3423   AIC:                             9460.
+Df Residuals:                    3421   BIC:                             9473.
+Df Model:                           1                                         
+Covariance Type:            nonrobust                                         
+========================================================================================
+                           coef    std err          t      P>|t|      [0.025      0.975]
+----------------------------------------------------------------------------------------
+const                    0.0063      0.016      0.381      0.703      -0.026       0.039
+forest_area_(sq._km)     0.3755      0.016     23.084      0.000       0.344       0.407
+==============================================================================
+Omnibus:                     4849.251   Durbin-Watson:                   2.005
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):          1335548.202
+Skew:                           8.351   Prob(JB):                         0.00
+Kurtosis:                      98.316   Cond. No.                         1.01
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
